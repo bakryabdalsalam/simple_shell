@@ -1,5 +1,5 @@
 0x16. C - Simple Shell
-By Bakry Abdalsalam and Ahmed
+By Bakry Abdalsalam and Ahmed Lawal
 
 Lordwill1
 /
